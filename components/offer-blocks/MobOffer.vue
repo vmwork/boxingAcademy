@@ -8,7 +8,7 @@
       <li><span>Proficiently Trainer's</span></li>
       <li><span>Frendly Communiti</span></li>
     </ul>
-    <button class="offer-free-button"><span>FREE TRAINING</span></button>
+    <span class="offer-free-button"> <button>FREE TRAINING</button></span>
   </div>
 </template>
 
@@ -47,7 +47,7 @@
     letter-spacing: 1px;
     font-size: 10px;
     font-family: ClashGrotesk-Medium, sans-serif;
-    span {
+    button {
       background-color: $bg-red;
       padding: 8.5px 14.5px;
       border-radius: 60px;
